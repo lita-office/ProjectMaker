@@ -1,2 +1,2 @@
 # ProjectMaker
-A good project maker.
+一个很棒的项目模板制作器。
